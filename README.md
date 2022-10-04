@@ -2,7 +2,7 @@
 
 ![](https://archive.org/download/1111_20221004/1111.png)
 
-###⚠️ Hakkında
+### ⚠️ Hakkında
 
  - Shades Downloader , Windows PC'nize günlük hayatta sık kullanılan programları
  hızlı ve otomatik şekilde Windows Package Manager ( WinGET) ile güveli ve sorunsuz kurulum sağlar.
